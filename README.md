@@ -111,6 +111,7 @@ Scene and other assets put together to test USD features and as examples of how 
 ### Non-Technical Learning
 
 - [Book of USD](https://remedy-entertainment.github.io/USDBook/) – A less technical introduction and overview of USD and its terminology by Remedy Entertainment.
+- [Universal Scene Description in Action](https://www.manning.com/books/universal-scene-description-in-action) – Learn the fundamentals of Universal Scene Description and start creating engaging 3D scenes with Python and the OpenUSD framework
 
 ### Technical Learning
 
